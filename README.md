@@ -1,6 +1,8 @@
 # story-build
 Build a collaborative, fun story.
 
+For detailed instructions, see https://github.com/leaherb/story-build
+
 # Contributing - the easy way
 Add to the story in `story.md`! Let your imagination run wild.
 
@@ -12,6 +14,7 @@ Add to the story in `story.md`! Let your imagination run wild.
 
 I'll merge your changes into the master branch! If there are conflicts (multiple people updating the same branch), we'll handle the problem in Issues.
 
-For more details on the contributing, see _Step 2_ in https://github.com/leaherb/story-build
+# Now it's your turn!
+Start a story and invite others to add to it: https://github.com/leaherb/story-build
 
 Thank you for your participation!
